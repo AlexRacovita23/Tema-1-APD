@@ -2,7 +2,7 @@
 Student: Racovita Alexandru Catalin
 Class: 332 CB
 
-	For this project there were 3 main tasks that had to be done in order to parallelise the Marching Squares Algorithm: 
+For this project there were 3 main tasks that had to be done in order to parallelise the Marching Squares Algorithm: 
 1. Create a data structure array which contained the information needed by the threads, allocate memory for the contour map, 
 initial image, rescaled image when used and for the grid map.
 2. Declare and initialize the pthreads, split the workload in all arrays fairly between the threads and wait for all threads
