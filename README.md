@@ -1,6 +1,5 @@
 # Tema-1-APD
 Student: Racovita Alexandru Catalin
-Class: 332 CB
 
 For this project there were 3 main tasks that had to be done
 in order to parallelise the Marching Squares Algorithm:
